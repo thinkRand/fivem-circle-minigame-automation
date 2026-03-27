@@ -1,6 +1,6 @@
 # FiveM Circle Minigame Automation
 
-![Minigame Preview](solve_circle.png)
+![Minigame Preview](circle.png)
 
 An intelligent AutoHotkey automation script for FiveM circular timing minigames. This tool uses computer vision techniques to detect game elements in real-time and execute perfect inputs with human-like reaction delays.
 
